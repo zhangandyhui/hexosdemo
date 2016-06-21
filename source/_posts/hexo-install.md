@@ -93,5 +93,9 @@ avatar: "https://avatars1.githubusercontent.com/u/10860119?v=3&s=460"
 ## 	插件
 图片插件
     安装 	npm install https://github.com/CodeFalling/hexo-asset-image --save
+    配置：blog根目录下`_config.yml`中**`post_asset_folder:true`**
 	使用如： `![logo](hexo-install/1.png)`
 	项目结构：![logo](hexo-install/2.png)
+##  部署
+修改blog根目录下的`_config.yml`文件
+	![logo](hexo-install/3.png)	
